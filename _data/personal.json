@@ -1,17 +1,17 @@
 [
     {
-        "name": "Kumar Pallav",
-        "website": "http://kumarpallav.com",
-        "email": "me@kumarpallav.com",
-        "email2": "pforpallav@gmail.com",
-        "phone": "+1-206-910-0006",
-        "linkedin":"",
+        "name": "Satish lokkoju",
+        "website": "http://productwithml.com",
+        "email": "satish.lokkoju@gmail.com",
+        "email2": "satishjunnu22@gmail.com",
+        "phone": "+1-623-205-5927",
+        "linkedin":"https://www.linkedin.com/in/lsatish/",
         "languages": [
             {
                 "language": "C++"
             },
             {
-                "language": "CSharp"
+                "language": "Python"
             },
             {
                 "language": "JavaScript"
@@ -25,13 +25,13 @@
         ],
         "technologies": [
             {
-                "technology": "NodeJs"
+                "technology": "Computer Vision"
             },
             {
-                "technology": "UWP"
+                "technology": "Deep Learning"
             },
             {
-                "technology": "Win32"
+                "technology": "Machine Learning"
             }
         ]
     }

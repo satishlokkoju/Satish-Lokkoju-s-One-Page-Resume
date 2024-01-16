@@ -1,8 +1,14 @@
 [
     {
-        "school": "Indian Institute of Technology, Bombay",
-        "school_location": "Mumbai, India",
-        "degree": "Bachelor of Computer Science and Engineering (with Hons.); CGPA 8.6/10",
-        "time_period": "Jun 2010 - May 2014"
+        "school": "Birla Institute of Technology and Science, Pilani",
+        "school_location": "Rajasthan, India",
+        "degree": "Bachelor of Electrical and Electronics Engineering (with Hons.); CGPA 8.0/10",
+        "time_period": "Jun 2004 - May 2009"
+    },
+    {
+        "school": "Birla Institute of Technology and Science, Pilani",
+        "school_location": "Rajasthan, India",
+        "degree": "Master of Science in Economics (with Hons.); CGPA 8.0/10",
+        "time_period": "Jun 2004 - May 2009"
     }
 ]
